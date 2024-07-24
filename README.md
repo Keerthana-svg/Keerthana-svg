@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keerthana.M
 - 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning WEB DEVELOPMENT
+- 🌱 I’m currently an CS Engineering Student
 - 💞️ I’m looking to collaborate on MNCs
 - 📫 How to reach me LINKEDIN
 - 😄 Pronouns: Developer
