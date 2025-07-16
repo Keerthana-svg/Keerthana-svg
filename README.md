@@ -16,12 +16,12 @@ I'm a **Computer Science Engineering student** passionate about **Web Developmen
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
+
 
 
 ## 📫 How to Reach Me
 
-- [LinkedIn]((https://www.linkedin.com/in/keerthana-m)
+- [LinkedIn](https://www.linkedin.com/in/keerthana-dev)
 - Email:(mailto:keerthikavin48@gmail.com)
 
 ## ⚡ Fun Fact
