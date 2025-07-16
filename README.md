@@ -21,7 +21,7 @@ I'm a **Computer Science Engineering student** passionate about **Web Developmen
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](www.linkedin.com/in/keerthana-m-b1b102258)
+- [LinkedIn]((https://www.linkedin.com/in/keerthana-m)
 - Email:(mailto:keerthikavin48@gmail.com)
 
 ## ⚡ Fun Fact
