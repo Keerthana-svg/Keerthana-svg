@@ -33,4 +33,6 @@ I enjoy solving algorithmic challenges and have a growing interest in machine le
 
 ![Keerthana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthana-svg&show_icons=true&count_private=true&theme=radical)
 
+## 🏆 LeetCode Stats
+
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=keerthanaM29&theme=dark)
