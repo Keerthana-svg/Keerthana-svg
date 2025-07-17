@@ -23,8 +23,7 @@ I'm a **Computer Science Engineering student** passionate about **Web Developmen
 
 - [LinkedIn](https://www.linkedin.com/in/keerthana-dev)
 - Email:(mailto:keerthikavin48@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/keerthanaM29
-) 
+ 
 
 ## ⚡ Fun Fact
 
@@ -33,3 +32,7 @@ I enjoy solving algorithmic challenges and have a growing interest in machine le
 ## 📈 GitHub Stats
 
 ![Keerthana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthana-svg&show_icons=true&count_private=true&theme=radical)
+
+## 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=keerthanaM29
+&theme=dark)
